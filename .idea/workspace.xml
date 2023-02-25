@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="480ebe66-b48c-4d4a-8c9f-acc874519583" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4_OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/armour/Armored.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/armour/Armour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/armour/items/ChainMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/armour/items/Helmet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/armour/items/Shield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/Battle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/Names.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/items/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/items/DistanceAttacker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/items/SwordMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/items/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/team/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weapons/Bow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weapons/Sword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weapons/Weapon.java" afterDir="false" />
-    </list>
+    <list default="true" id="480ebe66-b48c-4d4a-8c9f-acc874519583" name="Changes" comment="Сделал ДЗ4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677302098344</updated>
     </task>
+    <task id="LOCAL-00001" summary="Сделал ДЗ4">
+      <created>1677304504075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677304504075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сделал ДЗ4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал ДЗ4" />
   </component>
 </project>
